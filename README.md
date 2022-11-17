@@ -1,4 +1,4 @@
-# <img align="left" alt="Linkspreed General" width="200px" src="https://laas.ml/assets/img/logos/logo/bulkit-core.svg" draggable="false" /> LaaS ([Click to visit LS 🚀](https://laas.ml/))([Log 🚀](https://github.com/linkspreed/LaaS/blob/main/log.md))
+# <img align="left" alt="Linkspreed General" width="200px" src="https://laas.ml/assets/img/logos/logo/bulkit-core.svg" draggable="false" /> ([Click to visit LS 🚀](https://laas.ml/))([Log 🚀](https://github.com/linkspreed/LaaS/blob/main/log.md))
 
 Here you will find all the important information about Linkspreed 🧡 as a global collection of social networks, tools, cloud solutions and much more, designed to help humanity shape the future. 
 
