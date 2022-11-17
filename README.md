@@ -64,9 +64,9 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/linkspreed/General_Linkspreed/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm contributing to the **future**. <img width="15%" align="right" alt="Github Image" src="https://github.com/linkspreed/General_Linkspreed/blob/main/images/linux_rounded.gif?raw=true" /><br>
-- <img src="https://github.com/linkspreed/General_Linkspreed/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **new technology**. <br>
-- <img src="https://github.com/linkspreed/General_Linkspreed/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Linkspreed**. <br>
+-  <img alt="GIF" src="https://github.com/linkspreed/General_Linkspreed/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm contributing to **LaaS**. <img width="15%" align="right" alt="Github Image" src="https://github.com/linkspreed/General_Linkspreed/blob/main/images/linux_rounded.gif?raw=true" /><br>
+- <img src="https://github.com/linkspreed/General_Linkspreed/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **new aolutions**. <br>
+- <img src="https://github.com/linkspreed/General_Linkspreed/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **LaaS**. <br>
 - <img src="https://github.com/linkspreed/General_Linkspreed/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on **Twitter (https://twitter.com/linkspreed)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/linkspreed/General_Linkspreed/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
