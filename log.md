@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 17.11.2022 will appear here ...
 
+### 22.12.2022 (announcement LaaS)
+- We're working on **LaaS**.
+- It's so great!
+
 ### 19.12.2022 (announcement LaaS)
 - We're still working on **LaaS**. 
 
