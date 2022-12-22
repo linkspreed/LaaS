@@ -3,6 +3,10 @@
 ## All changes that we will make from 17.11.2022 will appear here ...
 
 ### 22.12.2022 (announcement LaaS)
+- We have selected some SaaS projects that we will redesign and then introduce with the official launch and pitch of **LaaS** right from the start.
+- Many more will follow afterwards!
+
+### 22.12.2022 (announcement LaaS)
 - We're working on **LaaS**.
 - It's so great!
 
