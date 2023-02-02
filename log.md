@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 17.11.2022 will appear here ...
 
+### 02.02.2023 (announcement LaaS - Salesy)
+- We're currently working on **Salesy** - the first official **LaaS** application! ✅
+
 ### 02.02.2023 (announcement LaaS)
 - We're putting some further work effort on **LaaS**.
 
