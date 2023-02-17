@@ -2,6 +2,13 @@
 
 ## All changes that we will make from 17.11.2022 will appear here ...
 
+### 17.02.2023 (announcement LaaS)
+- We're in building mode at Linkspreed, crafting new SaaS projects that will take your productivity to the next level! 💻🚀🌟 #BuildingMode #SaaSProjects #Linkspreed
+
+### 17.02.2023 (announcement LaaS)
+- Exciting news! We're doubling down on #LaaS and gearing up to launch a whole suite of new #SaaS tools. 
+- Stay tuned for some seriously game-changing innovation in the pipeline. #technews #softwaredevelopment
+
 ### 04.02.2023 (announcement LaaS - Salesy)
 - We continued to work on **Salesy LaaS** and made tremendous progress! ✅
 
