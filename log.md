@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 17.11.2022 will appear here ...
 
+### 17.02.2023 (announcement Salesy - LaaS)
+- We're thrilled to announce that we're continuing development on Salesy, the first platform of LaaS! Our team is working hard to bring new features and capabilities to Salesy, so stay tuned for updates! 🚀💻🌟 #LaaS #Salesy #Development #NewFeatures
+
 ### 17.02.2023 (announcement LaaS)
 - We're in building mode at Linkspreed, crafting new SaaS projects that will take your productivity to the next level! 💻🚀🌟 #BuildingMode #SaaSProjects #Linkspreed
 
