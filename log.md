@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 17.11.2022 will appear here ...
 
+### 18.02.2023 (announcement LaaS)
+- 📢 Big news! We're excited to announce that we're doubling down on LaaS at Linkspreed. 🚀
+That's right – we're working hard to bring you a suite of powerful SaaS tools, bundled together and completely free. We believe that productivity and collaboration should be accessible to everyone, and we're making it happen with LaaS.
+Our team is focused on developing cutting-edge technologies and intuitive interfaces that make it easy for you to get stuff done. From project management to document sharing to communication tools, our LaaS platform will have everything you need to work smarter, not harder.
+So stay tuned – we can't wait to share our latest LaaS updates with you. Together, we'll revolutionize the way you work! 💪 #LinkspreedLaaS #SaaS #Productivity #Collaboration
+
 ### 17.02.2023 (announcement Salesy - LaaS)
 - We're thrilled to announce that we're continuing development on Salesy, the first platform of LaaS! Our team is working hard to bring new features and capabilities to Salesy, so stay tuned for updates! 🚀💻🌟 #LaaS #Salesy #Development #NewFeatures
 
