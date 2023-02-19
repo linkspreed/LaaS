@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 17.11.2022 will appear here ...
 
+### 19.02.2023 (announcement Shorts - LaaS)
+- 👀 Sneak Peek Alert! 👀 We're thrilled to share that development progress on Shorts by LaaS is well underway!🚀 Our team is working around the clock to bring you an innovative and user-friendly product that you're sure to love. Stay tuned for updates and get ready to experience the magic of Shorts!👌 #ShortsByLaaS #DevelopmentProgress #Innovation #UserFriendly #StayTuned
+
+### 19.02.2023 (announcement LaaS - Salesy)
+- Exciting news! 🎉 Our team is hard at work on Salesy, our new LaaS product designed to help you close more deals and drive revenue. 💰 Say goodbye to tedious sales tasks and hello to increased productivity and profits! 💪 Stay tuned for more updates. #Salesy #LaaS #sales
+
 ### 18.02.2023 (announcement LaaS - Salesy)
 - Exciting news! 🎉 Our team is hard at work on Salesy, our new LaaS product designed to help you close more deals and drive revenue. 💰 Say goodbye to tedious sales tasks and hello to increased productivity and profits! 💪 Stay tuned for more updates. #Salesy #LaaS #sales
 
