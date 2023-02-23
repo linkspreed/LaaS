@@ -2,6 +2,14 @@
 
 ## All changes that we will make from 17.11.2022 will appear here ...
 
+### 23.02.2023 (announcement LaaS - Chatbot)
+- Our team is doubling down on developing our Chatbot for Marketing on Instagram and Facebook. 
+- Can't wait to see the innovative ways it'll help businesses connect with their audiences 🚀 #marketingautomation #chatbots #socialmediamarketing
+
+### 22.02.2023 (announcement LaaS)
+- We're currently working on a small chatbot program tailored for the marketing realm 🤖📈 
+- Stay tuned for more updates on this project! #marketing #chatbot #AI
+
 ### 19.02.2023 (announcement Shorts - LaaS)
 - 👀 Sneak Peek Alert! 👀 We're thrilled to share that development progress on Shorts by LaaS is well underway!🚀 Our team is working around the clock to bring you an innovative and user-friendly product that you're sure to love. Stay tuned for updates and get ready to experience the magic of Shorts!👌 #ShortsByLaaS #DevelopmentProgress #Innovation #UserFriendly #StayTuned
 
