@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 17.11.2022 will appear here ...
 
+### 24.02.2023 (announcement Chatbot LaaS)
+- 🚀Our Chatbot marketing solution for Facebook and Instagram is getting better and smarter every day! 💬💡 We're excited to share that we've made some incredible progress and can't wait for you to try it out. Get ready to take your social media game to the next level with our cutting-edge technology. #ChatbotMarketing #SocialMedia #Innovation
+
 ### 23.02.2023 (announcement LaaS - Chatbot)
 - Our team is doubling down on developing our Chatbot for Marketing on Instagram and Facebook. 
 - Can't wait to see the innovative ways it'll help businesses connect with their audiences 🚀 #marketingautomation #chatbots #socialmediamarketing
