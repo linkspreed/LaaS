@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 17.11.2022 will appear here ...
 
+### 18.06.2023 (announcement LaaS)
+- 📢 Exciting news! 🎉 We've just added LaaS to our subdomain system at https://laas.ml! 🔗 You'll now be redirected to https://laas.linkspreed.com, but don't worry, nothing changes for you when using the platform 🙌 Have you tried it yet? 😎 #Laas #linkspreed #subdomains #webdevelopment #techquestion
+
 ### 24.02.2023 (announcement Chatbot LaaS)
 - 🚀Our Chatbot marketing solution for Facebook and Instagram is getting better and smarter every day! 💬💡 We're excited to share that we've made some incredible progress and can't wait for you to try it out. Get ready to take your social media game to the next level with our cutting-edge technology. #ChatbotMarketing #SocialMedia #Innovation
 
